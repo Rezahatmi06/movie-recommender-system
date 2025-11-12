@@ -5,7 +5,7 @@ import os  # Kita butuh 'os' untuk mengecek apakah file ada
 from tqdm import tqdm
 
 # --- KONFIGURASI ---
-API_KEY = '0c04259b81c1b4beafa9ddee8a225f8e'
+API_KEY = 'API nya ketik disini'
 BASE_URL = 'https://api.themoviedb.org/3'
 # File untuk menyimpan hasil
 OUTPUT_FILE = 'movies_data.pkl'
