@@ -1,0 +1,9 @@
+# Abaikan file sistem
+__pycache__/
+*.pyc
+
+# Abaikan file data besar & model (bisa digenerate ulang)
+*.pkl
+
+# Abaikan file sistem operasi
+.DS_Store
